@@ -69,4 +69,11 @@ def solution(a)
     end
 end
 
-puts solution([9, 3, 9, 3, 9, 7, 9])
+# Testing
+require 'minitest/autorun'
+
+class TaskTest < MiniTest::Unit::TestCase
+  def test_example
+    assert_equal 7, solution([9, 3, 9, 3, 9, 7, 9])
+  end
+end
