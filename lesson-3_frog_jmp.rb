@@ -45,8 +45,6 @@ def solution(x, y, d)
   ((y - x)/d.to_f).ceil
 end
 
-puts solution(10, 85, 30)
-
 # Testing
 require 'minitest/autorun'
 
