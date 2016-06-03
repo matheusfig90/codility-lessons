@@ -76,8 +76,6 @@ def solution(a)
   min_diff
 end
 
-puts solution (0..10000).to_a
-
 Testing
 require 'minitest/autorun'
 
