@@ -76,7 +76,7 @@ def solution(a)
   min_diff
 end
 
-Testing
+# Testing
 require 'minitest/autorun'
 
 class TaskTest < MiniTest::Unit::TestCase
