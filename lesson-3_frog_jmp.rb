@@ -36,7 +36,7 @@ Results:
 
     Test score: 100%
     Correctness: 100%
-    Performance: not assessed
+    Performance: 100%
     Link: https://codility.com/demo/results/trainingE2DUDY-TKH/
 
 =end
