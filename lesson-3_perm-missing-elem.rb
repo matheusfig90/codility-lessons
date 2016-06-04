@@ -36,7 +36,7 @@ Results:
 
     Test score: 50%
     Correctness: 100%
-    Performance: 0%
+    Performance: 100%
     Link: https://codility.com/demo/results/trainingWKH8CX-JBV/
   
 =end
